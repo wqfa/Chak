@@ -6,3 +6,10 @@ python-telegram-bot
 requests
 rich
 telegram
+asyncio
+os
+random
+time
+redis
+subprocess
+psutil
