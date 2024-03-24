@@ -1,5 +1,4 @@
 
-vuloop
 requests
 rich
 telegram
