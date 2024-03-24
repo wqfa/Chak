@@ -1,1 +1,1 @@
-worker: python main.py
+worker: php main.py
