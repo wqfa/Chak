@@ -1,4 +1,4 @@
-python
+
 vuloop
 requests
 rich
