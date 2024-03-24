@@ -1,2 +1,11 @@
-
+asyncio
+os
+random
+time
+pyrogram
+pyromod
+redis
 requests
+subprocess
+urllib
+uvloop
