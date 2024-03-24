@@ -1,1 +1,1 @@
-worker: php main.php
+worker: php run.php
