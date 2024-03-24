@@ -1,0 +1,8 @@
+uuid
+pyromod
+pyrogram
+pyTelegramBotAPI
+python-telegram-bot
+requests
+rich
+telegram
