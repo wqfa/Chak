@@ -1,6 +1,5 @@
 
 requests
-rich
 telegram
 os
 random
@@ -8,5 +7,3 @@ time
 redis
 subprocess
 psutil
-Pyromod
-Pyrogram
