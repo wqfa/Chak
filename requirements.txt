@@ -1,5 +1,3 @@
-Pyromod
-Pyrogram
 python
 vuloop
 requests
@@ -12,3 +10,5 @@ time
 redis
 subprocess
 psutil
+Pyromod
+Pyrogram
