@@ -1,6 +1,5 @@
-uuid==1.29
-pyromod==3.1.5
-pyrogram==2.0.105
+pyromod
+pyrogram
 python
 vuloop
 requests
