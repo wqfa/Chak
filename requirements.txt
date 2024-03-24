@@ -1,9 +1,2 @@
 
 requests
-telegram
-os
-random
-time
-redis
-subprocess
-psutil
