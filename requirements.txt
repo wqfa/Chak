@@ -1,6 +1,6 @@
-uuid==1.30
-pyromod==3.1.6
-pyrogram==2.0.106
+uuid==1.29
+pyromod==3.1.5
+pyrogram==2.0.105
 python
 requests
 rich
