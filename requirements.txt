@@ -2,7 +2,6 @@
 requests
 rich
 telegram
-asyncio
 os
 random
 time
